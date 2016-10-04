@@ -1,6 +1,6 @@
 #!/bin/csh
 
-#PBS -N ISTAHW9
+#PBS -N hw9
 #PBS -m bea
 #PBS -M rfoitik1@email.arizona.edu
 #PBS -W group_list=ericlyons
